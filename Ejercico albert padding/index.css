@@ -1,0 +1,26 @@
+body {
+    margin: 0;
+    padding: 250px 0 0 0;
+    text-align: center;
+}
+
+div {
+    padding: 30px;
+    background-color: red;
+    color: white;
+    width: 100px;
+    margin: 0 auto;
+}
+
+footer {
+    padding: 450px 0 0 0;
+    text-align: center;
+}
+
+footer p {
+    padding: 30px;
+    background-color: red;
+    color: white;
+    width: 100px;
+    margin: 0 auto;
+}
